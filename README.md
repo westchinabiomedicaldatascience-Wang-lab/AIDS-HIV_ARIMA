@@ -17,7 +17,8 @@ After downloanding and preprocessing the AIDS/HIV datasets, we applied ARIMA ana
 <br/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### END
+###### END
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br/>
 
@@ -25,6 +26,6 @@ After downloanding and preprocessing the AIDS/HIV datasets, we applied ARIMA ana
 
 :spiral_calendar: Last updated: October 5, 2020
 
-Greetings: written with LOVE :heart: from Chengdu :mahjong: by the Wang Lab :dna: :test_tube: :computer: (West China Biomedical Data Science Lab at Sichuan University, China). 
+🤟🏻 Greetings: written with LOVE :heart: from Chengdu :mahjong: by the Wang Lab :dna: :test_tube: :computer: (West China Biomedical Data Science Lab at Sichuan University, China). 
 <br/><br/>
            To all: :family_man_woman_girl_boy: Stay healthy! :jack_o_lantern: Happy Halloween!

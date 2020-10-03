@@ -21,4 +21,4 @@ Author: Mengqiao Wang, Ph.D.
 
 Last updated: October 5, 2020
 
-Greetings: written with <span style="font-family: Papyrus; color: red;">LOVE</span> from Chengdu by the Wang Lab (West China Biomedical Data Science Lab at Sichuan University, China). 
+Greetings: written with <span style="color:red">LOVE</span> from Chengdu by the Wang Lab (West China Biomedical Data Science Lab at Sichuan University, China). 

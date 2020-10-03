@@ -14,8 +14,7 @@ After downloanding and preprocessing the AIDS/HIV datasets, we applied ARIMA ana
 1. incidence and death (2 levels)
 2. AIDS, HIV, and AIDS/HIV combined (3 levels)
 
-
-
+<br/><br/><br/>
 
 Author: Mengqiao Wang, Ph.D.
 

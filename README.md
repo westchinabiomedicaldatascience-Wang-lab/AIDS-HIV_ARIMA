@@ -15,12 +15,15 @@ After downloanding and preprocessing the AIDS/HIV datasets, we applied ARIMA ana
 1. incidence and death (2 levels)
 2. AIDS, HIV, and AIDS/HIV combined (3 levels)
 
+
+###### END #####
+
 <br/><br/><br/>
 
-:adult: Author: Mengqiao Wang, Ph.D. :738B::5B5F::6A35:
+:adult: Author: Mengqiao Wang, Ph.D. :738B: :5B5F: :6A35:
 
 :spiral_calendar: Last updated: October 5, 2020
 
 Greetings: written with LOVE :heart: from Chengdu :mahjong: by the Wang Lab :dna: :test_tube: :computer: (West China Biomedical Data Science Lab at Sichuan University, China). 
-<br/>
+<br/><br/>
            To all: :family_man_woman_girl_boy: Stay healthy! :jack_o_lantern: Happy Halloween!

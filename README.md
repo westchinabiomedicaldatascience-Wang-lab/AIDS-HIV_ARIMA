@@ -17,8 +17,10 @@ After downloanding and preprocessing the AIDS/HIV datasets, we applied ARIMA ana
 
 <br/><br/><br/>
 
-Author: Mengqiao Wang, Ph.D.
+:adult: Author: Mengqiao Wang, Ph.D. :738B::5B5F::6A35:
 
-Last updated: October 5, 2020
+:spiral_calendar: Last updated: October 5, 2020
 
-Greetings: written with :heart: LOVE</span> from Chengdu &#x1F01F by the Wang Lab (West China Biomedical Data Science Lab at Sichuan University, China). 
+Greetings: written with LOVE :heart: from Chengdu :mahjong: by the Wang Lab :dna: :test_tube: :computer: (West China Biomedical Data Science Lab at Sichuan University, China). 
+<br/>
+           To all: :family_man_woman_girl_boy: Stay healthy! :jack_o_lantern: Happy Halloween!

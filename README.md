@@ -16,10 +16,10 @@ After downloanding and preprocessing the AIDS/HIV datasets, we applied ARIMA ana
 2. AIDS, HIV, and AIDS/HIV combined (3 levels)
 <br/>
 
-### END
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### END
 
-<br/><br/><br/>
+<br/>
 
 :adult: Author: Mengqiao Wang, Ph.D. :u738b: :u5b5f: :u6a35:
 

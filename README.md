@@ -2,11 +2,12 @@
 This is the deposit of the R code for the ARIMA analysis of AIDS/HIV incidence and death data in China.
 
 The accompanied manuscript is now under review and should be available by the end of November 2020.
-
+<br/>
 
 *Data source*
 
 All raw data on the incidence and death of AIDS and HIV (in fact, many more infectious diseases) in China from 2004 to 2017 are publicly available from the [Data Center of China Public Health Science](http://www.phsciencedata.cn/Share/en/) database hosted by the Chinese Center for Disease Control and Prevention (China CDC). 
+<br/>
 
 *ARIMA analysis*
 
@@ -20,4 +21,4 @@ Author: Mengqiao Wang, Ph.D.
 
 Last updated: October 5, 2020
 
-Greetings: written with LOVE from Chengdu by the Wang Lab (West China Biomedical Data Science Lab at Sichuan University, China). 
+Greetings: written with <span style="font-family: Papyrus; color: red">LOVE</span> from Chengdu by the Wang Lab (West China Biomedical Data Science Lab at Sichuan University, China). 

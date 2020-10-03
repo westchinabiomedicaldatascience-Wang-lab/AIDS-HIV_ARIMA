@@ -14,13 +14,14 @@ All raw data on the incidence and death of AIDS and HIV (in fact, many more infe
 After downloanding and preprocessing the AIDS/HIV datasets, we applied ARIMA analysis for six (2 x 3) models:
 1. incidence and death (2 levels)
 2. AIDS, HIV, and AIDS/HIV combined (3 levels)
+<br/>
 
-
-###### END #####
+### END
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br/><br/><br/>
 
-:adult: Author: Mengqiao Wang, Ph.D. :738B: :5B5F: :6A35:
+:adult: Author: Mengqiao Wang, Ph.D. :u738b: :u5b5f: :u6a35:
 
 :spiral_calendar: Last updated: October 5, 2020
 

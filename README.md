@@ -26,7 +26,8 @@ After downloanding and preprocessing the AIDS/HIV datasets, we applied ARIMA ana
 
 :spiral_calendar: Last updated: October 5, 2020
 
-🤟🏻 Greetings: written with LOVE :heart: from Chengdu :mahjong: by the Wang Lab :dna: :test_tube: :computer:<br/>
+🤟🏻 Greetings: written with LOVE :heart: from Chengdu :mahjong: by the Wang Lab :dna: :test_tube: :computer:
+
 📍 Address: West China Biomedical Data Science Lab founded A.D. 2016 @ Sichuan University, China
 <br/><br/>
            To all: :family_man_woman_girl_boy: Beat Covid-19 and Stay Healthy! :jack_o_lantern: Happy Halloween!

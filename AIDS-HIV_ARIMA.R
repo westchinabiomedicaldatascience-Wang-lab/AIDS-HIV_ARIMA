@@ -1,7 +1,7 @@
 ###################################
 ### AIDS/HIV ARIMA ###
 ###
-### author: Mengqiao Wang, Ph.D.
+### author: Bin Xu, B.S. and Mengqiao Wang, Ph.D.
 ### updated: October 4, 2020
 
 

@@ -24,7 +24,6 @@ After downloanding and preprocessing the AIDS/HIV datasets, we applied ARIMA ana
 *"Every day is Halloween, isn't it? For some of us."" - Tim Burton*
 <br/><br/>
 To all: :family_man_woman_girl_boy: Beat Covid-19 and Stay Healthy! :jack_o_lantern: Happy Halloween!
-
 <br/><br/><br/>
 
 :adult: Author: Mengqiao Wang, Ph.D.
@@ -34,5 +33,3 @@ To all: :family_man_woman_girl_boy: Beat Covid-19 and Stay Healthy! :jack_o_lant
 🤟🏻 Greetings: written with LOVE :heart: from Chengdu :mahjong: by the Wang Lab :dna: :test_tube: :computer:
 
 📍 Address: West China Biomedical Data Science Lab founded A.D. 2016 @ Sichuan University, China
-
-           

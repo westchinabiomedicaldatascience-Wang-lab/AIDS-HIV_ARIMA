@@ -1,5 +1,5 @@
 # AIDS-HIV_ARIMA
-This is the deposit of the R code for the ARIMA analysis of AIDS/HIV incidence and death data in China. The accompanied manuscript of ["Epidemiological and time series analysis on the incidence and death of AIDS and HIV in China"](https://bmcpublichealth.biomedcentral.com/) (Bin Xu, Jiayuan Li, Mengqiao Wang) is in press on BMC Public Health.
+This is the deposit of the R code for the ARIMA analysis of AIDS/HIV incidence and death data in China. The accompanied manuscript of ["Epidemiological and time series analysis on the incidence and death of AIDS and HIV in China"](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-09977-8) (Bin Xu, Jiayuan Li, Mengqiao Wang*) has been published on BMC Public Health in December 2020.
 <br/>
 
 *Data source*
